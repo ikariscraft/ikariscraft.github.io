@@ -1,0 +1,65 @@
+*{
+    font-family: "League Spartan", sans-serif;
+}
+
+header{
+    background-color: #EA9AB2;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color: white;
+    background-color: #337357;
+}
+
+.nav {
+    --bs-nav-link-hover-color: #337357;
+
+}
+
+.nav-link{
+    color: white;
+}
+
+.about-me{
+    background-color: #FFDBE5;
+}
+
+.btn-primary{
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #6D9F71;
+    --bs-btn-border-color: #6D9F71;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #337357;
+    --bs-btn-hover-border-color: #337357;
+    --bs-btn-active-bg: #337357;
+    --bs-btn-active-border-color: #337357;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #337357;
+    --bs-btn-disabled-border-color: #337357;
+}
+
+.img-about-me{
+    width: 400px;
+}
+
+#skills{
+    background-color: #E27396;
+}
+
+#projects{
+    background-color: #6D9F71;
+}
+
+#projects h2{
+    color: white;
+}
+
+.img-project1{
+    background-image: url(assets/clon-pinterest.png);
+    background-size: cover;
+}
