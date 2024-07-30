@@ -60,6 +60,67 @@ header{
 }
 
 .img-project1{
-    background-image: url(assets/clon-pinterest.png);
+    background-image: url('/assets/clon-pinterest.png');
     background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-project1::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    z-index: 1; 
+    pointer-events: none; 
+}
+.img-project1 .d-flex.flex-column {
+    position: relative;
+    z-index: 2; 
+}
+
+.img-project2{
+    background-image: url('/assets/spider-clue-mockup.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-project2::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    z-index: 1; 
+    pointer-events: none; 
+}
+.img-project2 .d-flex.flex-column {
+    position: relative;
+    z-index: 2; 
+}
+.img-project3{
+    background-image: url('/assets/cyclecare.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-project3::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    z-index: 1; 
+    pointer-events: none; 
+}
+.img-project3 .d-flex.flex-column {
+    position: relative;
+    z-index: 2; 
+}
+
+.testimonials{
+    background-color: #337357;
 }
