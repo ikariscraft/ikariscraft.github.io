@@ -6,6 +6,10 @@ header{
     background-color: #EA9AB2;
 }
 
+body{
+    background-color: #EA9AB2;
+}
+
 .nav-item a{
     color: white;
 }
@@ -123,4 +127,17 @@ header{
 
 .testimonials{
     background-color: #337357;
+}
+
+.contact{
+    background-color: #E27396;
+}
+
+.bck-body{
+    background: #FFDBE5;
+    opacity: 1;
+}
+
+.bi{
+    font-size: 1.5rem;
 }
