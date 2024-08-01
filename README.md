@@ -1,8 +1,10 @@
 # Portfolio of Aneth Michelle Tamariz Moreno ༘⋆🌷
 This is a portfolio created as evidence of the Tecnolochicas PRO bootcamp. The design is responsive and adaptable to different screen sizes.
 
+── .✦ This site is published at [GitHub Pages](https://fairyofshampoo.github.io) 
+
 ## Description 💭₊˚
-The website is built using HTML, CSS, Javascript and Bootstrap to provide a responsive structure and style. It includes sections about me, skills, projects, testimonials, and a contact form.
+The website is built using `HTML`, `CSS`, `Javascript` and `Bootstrap` to provide a responsive structure and style. It includes sections about me, skills, projects, testimonials, and a contact form.
 
 ***
 
@@ -31,5 +33,4 @@ The website is built using HTML, CSS, Javascript and Bootstrap to provide a resp
 
 
 ## Contact ˚˖𓍢ִ໋🦢˚
-You can reach me via email at michellemoreno1313@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/michelletamariz/).
-
+>You can reach me via email at michellemoreno1313@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/michelletamariz/).
