@@ -5,8 +5,8 @@ var typewriter = new Typewriter(app, {
 });
 
 typewriter.typeString('Front-End Developer Jr.')
-    .pauseFor(2500)
+    .pauseFor(2000)
     .deleteAll()
     .typeString('Software Engineering Student')
-    .pauseFor(2500)
+    .pauseFor(2000)
     .start();
