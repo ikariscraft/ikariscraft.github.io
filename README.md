@@ -1,25 +1,27 @@
-# Portfolio of Aneth Michelle Tamariz Moreno
+# Portfolio of Aneth Michelle Tamariz Moreno ༘⋆🌷
+This is a portfolio created as evidence of the Tecnolochicas PRO bootcamp. The design is responsive and adaptable to different screen sizes.
 
-This is the personal portfolio of Aneth Michelle Tamariz Moreno, a front-end developer and Software Engineering student at Universidad Veracruzana. The portfolio is designed to showcase my skills, projects, and provide a way to contact me.
+## Description 💭₊˚
+The website is built using HTML, CSS, Javascript and Bootstrap to provide a responsive structure and style. It includes sections about me, skills, projects, testimonials, and a contact form.
 
-## Description
+***
 
-The website is built using HTML, CSS, and Bootstrap to provide a responsive structure and style. It includes sections about me, skills, projects, testimonials, and a contact form.
+### Screenshots 🩰˚˖𓍢ִ໋ 
+![alt text](/assets/image.png)
+![alt text](/assets/skills.png)
+![alt text](/assets/projects.png)
+![alt text](/assets/testimonials.png)
+![alt text](/assets/contact.png)
 
-## Technologies Used
+## Technologies Used 🎧✧˚.
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- Bootstrap Icons
-- Google Fonts
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap 5
+* Google Fonts
 
-## Project Structure
-- **index.html**: Contains the main structure of the website.
-- **assets**: Folder containing images and other resources.
-- **styles.css**: Custom stylesheet.
-
-## Website Sections
+## Website Sections 🎀༘⋆
 
 1. **About Me**: Information about my background, education, and interests.
 2. **Skills**: A list of my technical and soft skills.
@@ -28,6 +30,6 @@ The website is built using HTML, CSS, and Bootstrap to provide a responsive stru
 5. **Contact**: A form to get in touch with me and my contact details.
 
 
-## Contact
-
+## Contact ˚˖𓍢ִ໋🦢˚
 You can reach me via email at michellemoreno1313@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/michelletamariz/).
+
