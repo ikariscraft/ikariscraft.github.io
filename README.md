@@ -12,7 +12,6 @@ The website is built using `HTML`, `CSS`, `Javascript` and `Bootstrap` to provid
 ![alt text](/assets/image.png)
 ![alt text](/assets/skills.png)
 ![alt text](/assets/projects.png)
-![alt text](/assets/testimonials.png)
 ![alt text](/assets/contact.png)
 
 ## Technologies Used 🎧✧˚.
